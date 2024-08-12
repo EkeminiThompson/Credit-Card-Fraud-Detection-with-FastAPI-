@@ -1,6 +1,6 @@
 # Real-Time Credit Card Fraud Detection with FastAPI and Machine Learning
 
-This project implements a real-time credit card fraud detection system using machine learning, deployed with FastAPI. The system predicts the likelihood of fraudulent transactions based on various features extracted from the transaction data.
+This project uses machine learning to implement a real-time credit card fraud detection system, deployed with FastAPI. The system predicts the likelihood of fraudulent transactions based on various features extracted from the transaction data.
 
 ## Table of Contents
 
